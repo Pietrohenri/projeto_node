@@ -1,0 +1,23 @@
+{
+  "name": "projetonode-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projetonode.js",
+  "scripts": {
+    "start": "node projetonode.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pietrohenri/jsprojetos.git"
+  },
+  "author": "pietro henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pietrohenri/jsprojetos/issues"
+  },
+  "homepage": "https://github.com/Pietrohenri/jsprojetos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
